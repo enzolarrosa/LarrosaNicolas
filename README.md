@@ -8,3 +8,6 @@ experience in this. Creative and solution oriented.__
 
 __I am looking for my first IT job. The technologies I handle are: `React`, `Redux`, `JavaScript`, `Redux`, `Node Js`, `Express Js`, `PostgreSQL`, `Mongoose`.__
 
+__Contact:__
+-📧 __enzolarrosa@gmail.com__
+-📱 __1166182549__
