@@ -1,4 +1,4 @@
-##Hi 👋, I'm Enzo Nicolas Larrosa.
+# Hi 👋, My name is Larrosa Enzo Nicolas
 __I am a full stack developer with training as a web designer.
 Experienced in a variety of technologies including Javascript,
 NodeJS, React, Redux, and SQL. Able to work in a team with 
