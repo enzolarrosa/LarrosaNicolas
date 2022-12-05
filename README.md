@@ -6,7 +6,7 @@ experience in this. Creative and solution oriented.__
 
 <img height="230" width="320" src="./imagen-programacion.jpeg" />
 
-__I am looking for my first IT job. The technologies I handle are: `React`, `Redux`, `JavaScript`, `Redux`, `Node Js`, `Express Js`, `PostgreSQL`, `Mongoose`.__
+__I am looking for my first IT job. The technologies I handle are: `React`, `Redux`, `JavaScript`, `Node Js`, `Express Js`, `PostgreSQL`, `Mongoose`.__
 
 __Contact:__
 -📧 __enzolarrosa@gmail.com__
